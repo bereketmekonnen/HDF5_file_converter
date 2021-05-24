@@ -1,6 +1,5 @@
 # HDF5_file_converter
-This program converts HDF5 files into 3 diffrent formats.  the formats are CSV, TXT, AND XML
-
+This program is ment to be used as a tool to convert HDF5 files to CSV, TXT, and XML files
 it is writen with python 3. 
-inorder to run the program successfully, the following libraryies need to be imported 
+To run the program successfully, the following libraryies need to be imported 
 pandas, numpy, h5py and os
